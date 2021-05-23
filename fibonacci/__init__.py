@@ -1,1 +1,1 @@
-from .fib import fib
+from .fib import fib # noqa F401
